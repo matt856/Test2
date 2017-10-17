@@ -1,8 +1,4 @@
-## LocoStudent #1 is trying to commit to master
-
-# This is a test of a student account
-
-## Welcome to My GitHub Test Pages
+## student 2 is messing with student 1
 
 https://locorobo.co/
 
